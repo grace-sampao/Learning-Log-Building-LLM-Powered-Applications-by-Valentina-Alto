@@ -1,1 +1,5 @@
 building-llm-powered-applications/
+
+config.py
+
+__pycache__/
