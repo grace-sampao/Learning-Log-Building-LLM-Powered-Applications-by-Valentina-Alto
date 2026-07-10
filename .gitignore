@@ -3,3 +3,5 @@ building-llm-powered-applications/
 config.py
 
 __pycache__/
+
+data/
