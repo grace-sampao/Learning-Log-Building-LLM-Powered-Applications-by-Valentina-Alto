@@ -1,7 +1,7 @@
 building-llm-powered-applications/
+__pycache__/
+data/
 
 config.py
-
-__pycache__/
-
-data/
+.DS_Store
+tutorial.ipynb
